@@ -1,0 +1,16 @@
+.course {
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    padding: 8px;
+
+}
+
+.course img {
+    height: 250px;
+}
+
+.btn-icon {
+    background-color: rgba(red, green, blue, alpha);
+    color: blueviolet;
+
+}

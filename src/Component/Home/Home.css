@@ -1,0 +1,13 @@
+.course-container {
+    display: grid;
+    grid-template-columns: 3fr;
+    margin: 50px;
+
+}
+
+.home-container {
+    display: grid;
+    grid-template-columns: repeat(4fr);
+    gap: 10px;
+    margin: 10px;
+}
